@@ -28,7 +28,7 @@ The main purpose of the converter file is to read in either CSV or JSON data and
 Below is the CSV to JSON method:
 </p>
 
-<p><img src="CSVtoJSON.jpg" alt="CSV to JSON"> </p>
+<p><img src="CSVtoJSON.png" alt="CSV to JSON"> </p>
 
 <p>
 Below is the JSON to CSV method:
