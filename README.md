@@ -28,7 +28,7 @@ provided good documentation for the project. In this program, I utilized the OPE
 I began the main file by reading the pre-written file that contains the CSV data and the JSON data. This file contains sample data provided by professor J. Snellen at Jacksonville State University.
 </p>	
 			 
-   <p><img src=”Portfolio Pic.jpg" alt="Main"> </p>
+   <p><img src=”https://github.com/hmays/cs310-csv-json/blob/master/Portfolio%20Pic.png" alt="Main"> </p>
 
 <h2>Converter Class File</h2>
 	<p>
