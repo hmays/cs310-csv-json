@@ -28,14 +28,14 @@ provided good documentation for the project. In this program, I utilized the OPE
 I began the main file by reading the pre-written file that contains the CSV data and the JSON data. This file contains sample data provided by professor J. Snellen at Jacksonville State University.
 </p>	
 			 
-   <p><img src=”Portfolio Pic.png" alt="Main"> </p>
+   <p><img src=”Portfolio Pic.jpg" alt="Main"> </p>
 
 <h2>Converter Class File</h2>
 	<p>
 		The main purpose of the converter file is to read in either CSV or JSON data and call the correct method. The first method accepts CSV data and converts it to JSON. The second method reads JSON data and converts it to CSV data.
 Below is the CSV to JSON method:
 	</p>
-   <p><img src=”CSVtoJSON.png" alt="CSV to JSON"> </p>
+   <p><img src=”CSVtoJSON.jpg" alt="CSV to JSON"> </p>
 
 
 
@@ -43,7 +43,7 @@ Below is the CSV to JSON method:
    Below is the JSON to CSV method:
 </p>
 
-   <p><img src=”JSONtoCSV.png" alt="CSV to JSON"> </p>
+   <p><img src=”JSONtoCSV.jpg" alt="CSV to JSON"> </p>
 
 
 
